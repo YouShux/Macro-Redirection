@@ -1,0 +1,15 @@
+{
+  "Author": "YouShu",
+  "Name": "Macro Redirection",
+  "InternalName": "MacroRedirection",
+  "AssemblyVersion": "1.0.0.10",
+  "Description": "重定向所有职业的施法目标，\n避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "重定向施法目标，不卡宏",
+  "AcceptsFeedback": true
+}
