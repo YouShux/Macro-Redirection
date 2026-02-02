@@ -1,9 +1,0 @@
-D:\A Yue Chajian\插件\MacroRedirection\MacroRedirection.deps.json
-D:\A Yue Chajian\插件\MacroRedirection\MacroRedirection.dll
-d:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\x64\Release\MacroRedirection.csproj.AssemblyReference.cache
-d:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\x64\Release\MacroRedirection.GeneratedMSBuildEditorConfig.editorconfig
-d:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\x64\Release\MacroRedirection.AssemblyInfoInputs.cache
-d:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\x64\Release\MacroRedirection.AssemblyInfo.cs
-d:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\x64\Release\MacroRedirection.csproj.CoreCompileInputs.cache
-d:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\x64\Release\MacroRed.F6783C28.Up2Date
-d:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\x64\Release\MacroRedirection.dll
