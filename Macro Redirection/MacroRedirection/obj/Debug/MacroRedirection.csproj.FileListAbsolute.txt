@@ -1,0 +1,32 @@
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\Debug\MacroRedirection.csproj.AssemblyReference.cache
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\Debug\MacroRedirection.GeneratedMSBuildEditorConfig.editorconfig
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\Debug\MacroRedirection.AssemblyInfoInputs.cache
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\Debug\MacroRedirection.AssemblyInfo.cs
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\Debug\MacroRedirection.csproj.CoreCompileInputs.cache
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\MacroRedirection.deps.json
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\MacroRedirection.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\MacroRedirection.pdb
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\AEAssist.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\CSCore.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\Dalamud.Bindings.ImGui.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\Dalamud.Bindings.ImGuizmo.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\Dalamud.Bindings.ImPlot.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\Dalamud.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\ECommons.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\FFXIVClientStructs.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\InteropGenerator.Runtime.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\KamiToolKit.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\Lumina.Excel.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\Lumina.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\bin\Debug\Newtonsoft.Json.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\Debug\MacroRed.F6783C28.Up2Date
+D:\A Yue Chajian\插件\MacroRedirection\MacroRedirection.dll
+D:\A Yue Chajian\插件\MacroRedirection\MacroRedirection.pdb
+D:\A Yue Chajian\插件\MacroRedirection\images\icon.png
+D:\A Yue Chajian\插件\MacroRedirection\images\主动技能边框.png
+D:\A Yue Chajian\插件\Macro Redirection\images\主动技能边框.png
+D:\A Yue Chajian\插件\Macro Redirection\images\icon.png
+D:\A Yue Chajian\插件\Macro Redirection\MacroRedirection.dll
+D:\A Yue Chajian\插件\Macro Redirection\MacroRedirection.pdb
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\Debug\MacroRedirection.dll
+D:\ACR\自创插件\Macro Redirection\MacroRedirection\obj\Debug\MacroRedirection.pdb
